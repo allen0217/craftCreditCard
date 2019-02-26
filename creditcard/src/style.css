@@ -1,0 +1,45 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .wrapped {
+    border: 1px blue solid;
+    padding: 10px;
+  }
+  .home-text {
+    font-weight: bold;
+    padding: 5px;
+    /* cursor: pointer; */
+  }
+  .list {
+    color: tomato;
+    padding: 5px;
+    border: 1px gold solid;
+    cursor: pointer;
+  }
+  .login-page {
+    border: 1px pink solid;
+    height: 600px;
+  }
+  h2 {
+    color:black;
+  }
+ 
+  input[type="text"] {
+    width: 20%;
+    padding: 5px 5px;
+    margin: 8px;
+  }
+  .submit-btn {
+    width: 50%;
+    background-color: rgb(172, 172, 199);
+    color: bisque;
+    cursor: pointer;
+    padding: 5px;
+  }
+  .errorMessage{
+    color:red
+  }
+  .typeMessage{
+    color:blue
+  }
